@@ -8,7 +8,11 @@ Feel free to reach out anytime or leave a reaction on any of my public repositor
 ### Tech Stack
 
 - Languages: TypeScript, Rust, Python  
-- Frameworks / Tools: Next.js, Astro, FastAPI, Supabase  
+- Backend / Infra: FastAPI, Supabase, PostgreSQL, Redis, Cloudflare Workers, Cloudflare KV  
+- Cloud / Platforms: Google Cloud Platform (Google Cloud Certified - Generative AI Leader), Cloud Run, Cloud Functions, Cloud Storage  
+- Frontend: Next.js, Astro, React, Vue
+- Generative AI: Claude API and other LLMs for building AI-powered features  
+- Dev / DX: Docker, GitHub Actions
 
 ### Links
 
