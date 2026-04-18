@@ -16,6 +16,7 @@ Feel free to reach out anytime or leave a reaction on any of my public repositor
 
 ### Links
 
+- My Project History: [https://ttatsato.github.io/posts/project-history/](https://ttatsato.github.io/posts/project-history/)
 - Tech blog: [https://ttatsato.github.io/](https://ttatsato.github.io/)  
 - LinkedIn: [https://www.linkedin.com/in/tatsuyasatoh0803/](https://www.linkedin.com/in/tatsuyasatoh0803/)
 
