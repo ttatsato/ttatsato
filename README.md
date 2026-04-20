@@ -14,6 +14,12 @@ Feel free to reach out anytime or leave a reaction on any of my public repositor
 - Generative AI: Claude API and other LLMs for building AI-powered features  
 - Dev / DX: Docker, GitHub Actions
 
+### Architecture RFCs (Design Log) ￼
+I document my architecture decision process for my OSS projects in GitHub Discussions.
+These RFCs cover topics like API gateway design, caching strategy (ValKey vs in‑process cache), Kafka adoption, and more.
+- usage-gate RFCs: Discussions in the “⚒️ RFC” category for usage-gate (https://github.com/ttatsato/usage-gate)
+
+
 ### Links
 
 - My Project History: [https://ttatsato.github.io/posts/project-history/](https://ttatsato.github.io/posts/project-history/)
