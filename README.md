@@ -17,7 +17,7 @@ Feel free to reach out anytime or leave a reaction on any of my public repositor
 ### Architecture RFCs (Design Log) ￼
 I document my architecture decision process for my OSS projects in GitHub Discussions.
 These RFCs cover topics like API gateway design, caching strategy (ValKey vs in‑process cache), Kafka adoption, and more.
-- usage-gate RFCs: Discussions in the “⚒️ RFC” category for usage-gate (https://github.com/ttatsato/usage-gate)
+- usage-gate RFCs: Discussions in the “⚒️ RFC” category for usage-gate ([https://github.com/ttatsato/usage-gate/discussions/categories/rfc](https://github.com/ttatsato/usage-gate/discussions/categories/rfc))
 
 
 ### Links
