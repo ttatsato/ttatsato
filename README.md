@@ -21,9 +21,6 @@ These RFCs cover topics like API gateway design, caching strategy (ValKey vs inâ
 
 
 ### Links
-
-- My Project History: [https://ttatsato.github.io/posts/project-history/](https://ttatsato.github.io/posts/project-history/)
-- Tech blog: [https://ttatsato.github.io/](https://ttatsato.github.io/)  
 - LinkedIn: [https://www.linkedin.com/in/tatsuyasatoh0803/](https://www.linkedin.com/in/tatsuyasatoh0803/)
 
 ### Coding Practice
