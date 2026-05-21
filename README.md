@@ -1,21 +1,63 @@
-## Hi there 👋
-I'm Tatsu, a software engineer based in Japan.  
-I have 10+ years of experience building products and am currently expanding into infrastructure and reliability engineering.  
-I'm particularly interested in system reliability, observability, and improving developer experience.
+## Hi there 👋 I'm Tatsu
 
-### Tech Stack
-- Languages: Go, Rust, TypeScript, Python
-- Infra / SRE: Kubernetes, Terraform, Prometheus,
-  Grafana, ArgoCD, OpenTelemetry
-- Cloud: AWS, GCP
-- Backend: PostgreSQL, Redis, Kafka
-- Dev: Docker, GitHub Actions
+Database Reliability Engineer specializing in **PostgreSQL internals**
+and **CDC pipelines**, built in Rust.  
+Based in Tokyo 🇯🇵 — open to remote opportunities worldwide.
 
-### Tech Blog
-- [Tech articles](https://alby.co.jp/articles/column?author=ttatsato)
+---
 
-### Links
-- [LinkedIn](https://www.linkedin.com/in/tatsuyasatoh0803/)
+## 🔭 What I'm working on
 
-### others
-![LeetCode stats](https://leetcard.jacoblin.cool/ttatsato?theme=unicorn)
+- Contributing to [supabase/etl](https://github.com/supabase/etl) — a Rust-based CDC framework for streaming Postgres data in real-time
+- Building Postgres HA clusters with Patroni for chaos engineering experiments
+ 
+  ----
+
+  ## 🎯 Focus Areas
+
+  **PostgreSQL Internals**
+  WAL, logical replication, partitioned tables, MVCC, autovacuum,
+  PITR, replication slots, Patroni, PgBouncer
+
+  **CDC & Data Pipelines**
+  Change data capture, Debezium-free Postgres replication,
+  publication/subscription design
+
+  **Reliability & Observability**
+  Prometheus, Grafana, OpenTelemetry, SLO design, chaos engineering
+
+  **Infrastructure as Code**
+  Terraform, Ansible, Docker, AWS (S3, RDS Aurora, CloudWatch)
+
+  ---
+
+  ## 🛠 Languages
+
+  | | |
+  |---|---|
+  | **Primary** | Rust, Go |
+  | **Secondary** | SQL (PostgreSQL), Python |
+  | **Familiar** | TypeScript |
+
+  ---
+
+  ## 🤝 OSS Contributions
+
+  | Project | Description |
+  |---|---|
+  | [supabase/etl](https://github.com/supabase/etl) | CDC pipeline framework for Postgres in Rust |
+
+  ---
+
+## 📝 Writing & Links
+
+  - [Tech Blog](https://alby.co.jp/articles/column?author=ttatsato)
+-  [LinkedIn](https://www.linkedin.com/in/tatsuyasatoh0803/)
+   
+---
+
+## 💬 Ask me about
+
+Postgres replication internals, CDC pipeline design,
+or building reliable data infrastructure without vendor lock-in.
+    
