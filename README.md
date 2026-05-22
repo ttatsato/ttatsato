@@ -8,7 +8,7 @@ Based in Tokyo 🇯🇵 — open to remote opportunities worldwide.
 
 ## 🔭 What I'm working on
 
-- Contributing to [supabase/etl](https://github.com/supabase/etl) — a Rust-based CDC framework for streaming Postgres data in real-time
+- Contributing to [supabase/etl](https://github.com/search?q=org%3Asupabase+author%3Attatsato) — a Rust-based CDC framework for streaming Postgres data in real-time
 - Building Postgres HA clusters with Patroni for chaos engineering experiments
  
   ----
